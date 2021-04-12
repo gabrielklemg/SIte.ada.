@@ -1,0 +1,30 @@
+:root{
+    --clr-primeira-1000: #011526;
+    --clr-segunda-800: #73461F;
+    --clr-terceira-600: #D97218;
+   
+    --clr-quarta-400: #F7C368;
+    --clr-quinta-200: #DFE6E8;
+    --clr-setima-000: #8D8E8F;
+    --clr-sexta-100: #C5C6C7;
+    
+}
+body{
+    background-color: var(--clr-primeira-1000);
+    color: var(--clr-quinta-200);
+}
+.center_main{
+    text-align: center;
+}
+.ref{
+    text-align: justify;
+}
+h1{
+    font-size: 70px;
+    text-align: left;
+    color: var(--clr-primeira-1000);
+}
+.titulo{
+    background-image: url(https://www.ctrlplay.com.br/wp-content/uploads/2019/08/Ada-WomenThatDid.jpg);
+    border-radius: 300px;
+}
